@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../React_project/JS_GAME/js"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "home work"
+	}
+}
